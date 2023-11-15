@@ -32,3 +32,5 @@ setup(
         'build_ext': BuildExtension
     }
 )
+
+print("test")
